@@ -8,7 +8,7 @@ print(f"Jag kan räkna till {c} ")
 
 aType = type(a)
 
-if(aType == "<class 'int'>") = )
+# if(aType == "<class 'int'>")
 
 print(f"är en {aType}")
 

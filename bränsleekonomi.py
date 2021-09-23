@@ -2,7 +2,7 @@ svar1 = input("Mätarställning i dag? ")
 svar2 = input("Mätarställning för ett år sen? ")
 svar3 = input("Antal liter bensin använt? ")
 
-materstl_nu = float(svar1)
+matarstl_nu = float(svar1)
 matarstl_forr = float(svar2)
 bensin = float(svar3)
 
